@@ -1,0 +1,240 @@
+﻿Variable Information,,
+Variable,Position,Label
+Sample,1,<none>
+ExposureGroup,2,ExposureGroup
+ExposureCVvsNOCV,3,<none>
+ExposureCVGENvsNOCV,4,<none>
+ExposureCVCCvsNOCV,5,<none>
+NormAvgScale,6,<none>
+DescriptiveNorms,7,<none>
+PrescriptiveNorms,8,<none>
+NormAwareness,9,I am aware of what others think about climate change
+PsyDAvgScale,10,<none>
+ECASAvgScale,11,<none>
+PolSuppAvgScale,12,<none>
+NegEmoAvgScale,13,<none>
+PosEmoAvgScale,14,<none>
+poliscale,15,political orientation
+gender,16,What is your gender? - Selected Choice
+genslidecheck,17,Which of the following was depicted in the slideshow you just watched?
+CAslidecheck,18,Which of the following was depicted in the slideshow you just watched?
+Norms_2,19, People in my community are at least somewhat worried about climate change
+Norms_3,20,People in my community are taking action to to address climate change
+Norms_4,21,I think it is important to address climate change
+Norms_5,22,People have a responsibility to protect the environment for future generations
+Norms_6,23,People in my community are not as concerned by climate change as me
+Norms_7,24,People in my community do not support the government taking action to address climate change
+PsycDist_1,25,Serious effects of climate change will mostly occur in communities far away from here
+PsycDist_2,26,Serious effects of climate change will occur in my local community
+PsycDist_3,27,I don't see myself as someone who will experience the effects of climate change
+PsycDist_4,28,My family and I will experience the effects of climate change
+ECAS_1,29,It is easy to imagine a world where we no longer use fossil fuels
+ECAS_2,30,I can imagine a world where politicians take effective action to address climate change
+ECAS_3,31,I can think of numerous methods of achieving a world where carbon emissions are reduced below current levels
+ECAS_4,32,"When I imagine what an ecologically sustainable existence for humans would be like, I can picture it in detail"
+CCemotions_1,33,Guilty
+CCemotions_2,34,Angry
+CCemotions_3,35, Betrayed
+CCemotions_7,36,Sad
+CCemotions_8,37,Afraid
+CCemotions_4,38,Hopeful
+CCemotions_5,39,Brave
+CCemotions_6,40,Resilient
+CCemotions_9,41,Optimistic
+HumanMitEff,42,Think about humans' ability to mitigate (or reduce) climate change. Which of the following statements comes closest to your view?
+HumanAdaptEff,43,Now think about whether humans can adapt to climate change.  Can we take actions that make the impacts of climate change less disruptive? Which of the following statements comes closest to your view?
+attcheck2,44,"Please select ""strongly agree"" to show that you are paying attention to this question."
+PolicySupport_1,45,I support using significant tax dollars to mitigate climate emissions
+PolicySupport_2,46,I support using significant tax dollars to help adapt to climate change
+PolicySupport_3,47,"Using the scale below, please indicate the extent to which you agree or disagree with the following statements - I support using significant tax dollars to invest in infrastructure that supports the use of public transit"
+PolicySupport_4,48,"Using the scale below, please indicate the extent to which you agree or disagree with the following statements - I support using significant tax dollars to fund the production of renewable energy"
+regionidentity,49,How would you describe the place you live?
+A6americas,50,How do you feel about climate change?
+Norms_6_Rec,51,Reverse norms 6- People in my community cc
+Norms_7_rec,52,Reverse norms 7- people in my community gov
+PsycDist_2_Rec,53,Reverse coded PsyD2- Affects of climate change will occur in my community
+PsycDist_4_Rec,54,Reverse Coded PsyD4- My family and I will experience CC
+attcheckPassNoPass,55,<none>
+,,
+,,
+,,
+Variable Values,,
+Value,Label,
+Sample,1,national
+,2,local
+ExposureGroup,0,no exposure
+,1,general
+,2,climate action
+ExposureCVvsNOCV,0,No CV Exposure
+,1,"CV Exposure (General, CC)"
+ExposureCVGENvsNOCV,0,No CV
+,1,CV General
+ExposureCVCCvsNOCV,0,No CV
+,1,CV CC
+NormAwareness,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+poliscale,1,Liberal
+,2,somewhat liberal
+,3,a little liberal
+,4,Netiher
+,5,a little conservative
+,6,somewhat conservative
+,7,Conservative
+gender,0,Male
+,1,"Female, Self-describe:"
+genslidecheck,0,a windmill
+,1,children
+CAslidecheck,0,a windmill
+,1,a police officer
+Norms_2,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+Norms_3,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+Norms_4,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+Norms_5,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+Norms_6,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+Norms_7,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Agree
+PsycDist_1,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+PsycDist_2,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+PsycDist_3,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+PsycDist_4,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+ECAS_1,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+ECAS_2,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+ECAS_3,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+ECAS_4,1,Strongly disagree
+,2,Somewhat disagree
+,3,Neither agree nor disagree
+,4,Somewhat agree
+,5,Strongly agree
+CCemotions_1,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_2,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_3,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_7,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_8,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_4,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_5,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_6,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+CCemotions_9,1,Not at all
+,2,Slightly
+,3,Moderately
+,4,Strongly
+HumanMitEff,1,My community can't reduce climate change
+,2,"My community could reduce climate change, but people aren't willing to change their behavior, so we're not going to"
+,3,"My community could reduce climate change, but it's unclear at this point whether we will do what's needed"
+,4,"My community can reduce climate change, and we are going to do so successfully"
+HumanAdaptEff,1,My community can't adapt to climate change
+,2,"My community could adapt to climate change, but people aren't willing to change their behavior, so we're not going to"
+,3,"My community could adapt to climate change, but it's unclear at this point whether we will do what's needed"
+,4,"My community can adapt to climate change, and we are going to do so successfully"
+attcheck2,1,Strongly agree
+,2,Agree
+,3,Disagree
+,4,Strongly Disagree
+PolicySupport_1,1,Strongly Disagree
+,2,Disagree
+,3,Neutral
+,4,Agree
+,5,Strongly Agree
+PolicySupport_2,1,Strongly Disagree
+,2,Disagree
+,3,Neutral
+,4,Agree
+,5,Strongly Agree
+PolicySupport_3,1,Strongly Disagree
+,2,Disagree
+,3,Neutral
+,4,Agree
+,5,Strongly Agree
+PolicySupport_4,1,Strongly Disagree
+,2,Disagree
+,3,Neutral
+,4,Agree
+,5,Strongly Agree
+regionidentity,1,Urban
+,2,Suburban
+,3,Rural
+A6americas,1,Dismissive
+,2,Doubtful
+,3,Disengaged
+,4,Cautious
+,5,Concerned
+,6,Alarmed
+attcheckPassNoPass,0,Did not pass
+,1,Pass
