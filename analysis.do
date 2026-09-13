@@ -9,9 +9,7 @@
 * 1. Import data
 **************************************************
 
-cd "C:\Users\nafia\OneDrive\ドキュメント\Experimental Analysis Social Norms"
-
-import delimited "Data/DataForOvercomingPluralisticIgnorance.csv", clear
+import delimited "DataForOvercomingPluralisticIgnorance.csv", clear
 
 **************************************************
 * 2. Prepare variables
