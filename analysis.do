@@ -8,6 +8,8 @@
 **************************************************
 * 1. Import data
 **************************************************
+* IMPORTANT: Before running this script, set Stata's working directory
+* to the folder containing this analysis.do file and the CSV dataset.
 
 import delimited "DataForOvercomingPluralisticIgnorance.csv", clear
 
